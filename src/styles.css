@@ -1,0 +1,15 @@
+body {
+    color: black;
+    font-weight: 400;
+  }
+
+  ul li {
+    float: left;
+    margin: 10px;
+    list-style-type: none;
+  }
+
+  p {
+    margin-top: 200px;
+    display: inline-block;
+  }
